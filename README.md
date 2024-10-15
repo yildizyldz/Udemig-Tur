@@ -10,4 +10,4 @@
 
 
 
-![Uploading udemig tur.gif…]()
+![]([Uploading udemig tur.gif)
