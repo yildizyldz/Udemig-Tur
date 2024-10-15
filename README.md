@@ -8,5 +8,6 @@
 - Modern ve duyarlı tasarım
 - Kullanıcı dostu arayüz
 
-![Uploading udemig tur.gif…]()
+
+![Uploading udemig tur.gif]()
 
