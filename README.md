@@ -8,4 +8,5 @@
 - Modern ve duyarlı tasarım
 - Kullanıcı dostu arayüz
 
-![](srceen.gif)
+
+![Uploading udemig tur.gif…]()
